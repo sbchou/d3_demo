@@ -4,6 +4,8 @@ Basic dot graph with scalable y-axis
 
 Note that tutorial from http://www.ivanteoh.com/posts/176-d3-tutorial-scale-graph.html
 
+WARNING: CODE SNIPPETS ARE CODE SNIPPETS AND MAY NOT RUN
+
 1) default.html
 This is the default html that contains a div for input button and another for the graph. We also link the d3 JavaScript library. 
 
